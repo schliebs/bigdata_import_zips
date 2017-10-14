@@ -40,3 +40,5 @@ data_offline/
 offline/
 
 .Rproj.user
+
+*.sqlite
